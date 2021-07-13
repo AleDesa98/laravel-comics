@@ -16,6 +16,7 @@ body {
 .cards {
   display: flex;
   flex-wrap: wrap;
+  margin: 40px 0;
 }
 
 .cards .card {

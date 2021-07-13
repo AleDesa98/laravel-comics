@@ -1,6 +1,7 @@
 .cards {
     display: flex;
     flex-wrap: wrap;
+    margin: 40px 0;
 
     .card {
         width: calc(100% / 6);
